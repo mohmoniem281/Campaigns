@@ -1,4 +1,4 @@
-# Sample Hardhat Project
+# Donation Campaigns dApp
 
 This project is a small practice dApp that supportes the following:
 - Creating campaigns using governance with voting and upgradable contracts
