@@ -1,13 +1,7 @@
 # Sample Hardhat Project
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
+This project is a small practice dApp that supportes the following:
+- Creating campaigns using governance with voting and upgradable contracts
+- Launch campaigns and receive donations
+- Print NFTs for donors whose donations are above 1 ether. 
 ```
